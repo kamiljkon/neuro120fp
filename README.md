@@ -20,29 +20,4 @@ The repo consists of the following files:
 ### Necessary to run
 The model runs off data from the StudyForrest open source dataset. Below is a directory tree of the used files from the dataset (obtained by a combination of Datalad get & direct download from OpenNeuro)
 
-.
-└── Data/
-    ├── ds000113/
-    │   └── sub-**/
-    │       └── ses-movie/
-    │           └── func/
-    │               ├── sub-**_ses-movie_task-movie_run-1_bold.nii.gz
-    │               ├── sub-**_ses-movie_task-movie_run-2_bold.nii.gz
-    │               ├── sub-**_ses-movie_task-movie_run-3_bold.nii.gz
-    │               ├── sub-**_ses-movie_task-movie_run-4_bold.nii.gz
-    │               ├── sub-**_ses-movie_task-movie_run-5_bold.nii.gz
-    │               ├── sub-**_ses-movie_task-movie_run-6_bold.nii.gz
-    │               ├── sub-**_ses-movie_task-movie_run-7_bold.nii.gz
-    │               └── sub-**_ses-movie_task-movie_run-8_bold.nii.gz
-    └── gump_emotions/
-        └── raw/
-            ├── av1o01
-            ├── av1o02
-            ├── av1o03
-            ├── av1o04
-            ├── av1o05
-            ├── av1o06
-            ├── av1o07
-            ├── av1o08
-            └── av1o09
-
+![alt text](<Screenshot 2025-05-09 at 3.46.37 AM.png>)
