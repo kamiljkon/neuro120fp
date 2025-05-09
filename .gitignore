@@ -1,8 +1,9 @@
-Xmetadata.pkl
-meta_val_filtered.pkl
+*.pkl
 .DS_Store
-__pycache__/
+.DS_Store
+Thumbs.db
 .venv/
+venv/
 *.pyc
 readydata/X_train.pt
 readydata/X_val.pt
