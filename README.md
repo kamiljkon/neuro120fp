@@ -2,7 +2,7 @@
 
 ## "Use of Occlusion Methods on 4D Convolutional Neural Networks to Find Neural Representations of Perceived Emotions in fMRI Recordings"
 
-This is my final projedt for the course NEURO120: Computational Neuroscience at Harvard College in the Spring 2025 semester. The project report exists in the repository as *projectpaper.pdf*. The project is made possible thanks to the StudyForrest dataset available publicly on https://www.studyforrest.org/.
+This is my final project for the course NEURO120: Computational Neuroscience at Harvard College in the Spring 2025 semester. The project report exists in the repository as *projectpaper.pdf*. The project is made possible thanks to the StudyForrest dataset available publicly on https://www.studyforrest.org/.
 
 ### Repo structure
 The repo consists of the following files:
