@@ -4,3 +4,7 @@ meta_val_filtered.pkl
 __pycache__/
 .venv/
 *.pyc
+readydata/X_train.pt
+readydata/X_val.pt
+readydata/y_train.pt
+readydata/y_val.pt
