@@ -20,4 +20,4 @@ The repo consists of the following files:
 ### Necessary to run
 The model runs off data from the StudyForrest open source dataset. Below is a directory tree of the used files from the dataset (obtained by a combination of Datalad get & direct download from OpenNeuro)
 
-![alt text](<Screenshot 2025-05-09 at 3.46.37 AM.png>)
+![alt text](tree.png)
